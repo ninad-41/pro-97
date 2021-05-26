@@ -1,1 +1,2 @@
-# pro-97
+# Counting-Numbers
+a simple python program
